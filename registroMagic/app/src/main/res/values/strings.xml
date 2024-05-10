@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">registro Magic</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_Email">Correo Electrónico</string>
+    <string name="hint_contraseña">Contraseña</string>
+    <string name="hint_lastname">Apellido</string>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "539650574744",
+    "project_id": "sanapp-514c0",
+    "storage_bucket": "sanapp-514c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539650574744:android:d551e5aed791b5f92743ed",
+        "android_client_info": {
+          "package_name": "com.example.sanapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ5-x55QMxXC2s6yPPSaoqXOx0bybM_s0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

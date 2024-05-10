@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Registro</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_email">correo electronico</string>
+    <string name="hint_LastName">Apellido</string>
+    <string name="hint_Password">Contraseña</string>
+</resources>
